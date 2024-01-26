@@ -23,7 +23,7 @@
   - :eyes: looking for an internship or work experience on a real project
   - :zap: developing projects that interest me and studing new technologies
   - :mountain_bicyclist: in my free time, like to play sports
-  - :mailbox:How to reach me: *gilnikita026@gmail.com*
+  - :mailbox: how to reach me: *gilnikita026@gmail.com*
   ---
   ### :hammer_and_wrench: Technologies :
 
