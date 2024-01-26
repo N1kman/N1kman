@@ -14,6 +14,18 @@
   <h1>
     Hello everyone! I'm Nick!
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvHoN3hiT_KTUG0QsBz3enF5nmKS7IzGbQGw&usqp=CAU" width="50px"/>
-  </h1>
+  </h1>  
 </div>
 
+  ### :man_technologist: About Me :
+  I am a Full Stack Developer from Belarus, Minsk.
+  - :student: 3rd year student of BSUIR
+  - :eyes: looking for an internship or work experience on a real project
+  - :zap: developing projects that interest me and studing new technologies
+  - :mountain_bicyclist: in my free time, like to play sports
+  - :mailbox:How to reach me: *gilnikita026@gmail.com*
+  ---
+  ### :hammer_and_wrench: Technologies :
+
+
+  
