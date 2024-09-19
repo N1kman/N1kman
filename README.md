@@ -20,28 +20,10 @@
   ### :man_technologist: About Me :
   I am a Back-end Developer from Belarus, Minsk.
   - :student: student of BSUIR
-  - :zap: developing projects that interest me and studing new technologies
+  - :zap: developing projects by python
   - :mountain_bicyclist: in my free time, like to play sports
   - :mailbox: how to reach me: *gilnikita026@gmail.com*
   ---
-  ### :hammer_and_wrench: Technologies :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-</div>
-
-  ---
-  ### :muscle: Leetcode stats :
-  
-  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=N1kman&theme=dark)](https://github.com/N1kman/leetcode-stats)
 
 
   
