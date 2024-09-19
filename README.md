@@ -19,8 +19,7 @@
 
   ### :man_technologist: About Me :
   I am a Back-end Developer from Belarus, Minsk.
-  - :student: 3rd year student of BSUIR
-  - :eyes: looking for an internship or work experience on a real project
+  - :student: student of BSUIR
   - :zap: developing projects that interest me and studing new technologies
   - :mountain_bicyclist: in my free time, like to play sports
   - :mailbox: how to reach me: *gilnikita026@gmail.com*
